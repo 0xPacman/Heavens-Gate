@@ -36,3 +36,7 @@ to test:
 to get the key:
 
 `./keys |  nc challs.dvc.tf 7337`
+
+the flag: 
+
+`dvCTF{4Ll_48OU7_71M1n9}`
