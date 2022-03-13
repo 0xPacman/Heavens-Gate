@@ -21,8 +21,12 @@ Output of timedatectl on host:
             NTP service: active
             RTC in local TZ: no
 ```
+
+[The code](https://github.com/0xPacman/Heavens-Gate/blob/main/chall.c)
+
 The solution :
 
+we only need [this simple program](https://github.com/0xPacman/Heavens-Gate/blob/main/keys.c) and pipe it as a input for the given program
 
 `gcc chall.c -o doors`
 
