@@ -28,7 +28,11 @@ The solution :
 
 `gcc keys.c -o keys`
 
+to test:
 
 `./keys | ./doors`
+
+
+to get the key:
 
 `./keys |  nc challs.dvc.tf 7337`
